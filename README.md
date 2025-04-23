@@ -1,7 +1,7 @@
 # Enhancing Reliability of Text-to-SQL Systems through Prompting techniques and Abstention
 
 <p align="center">
-  <img src="images/System Workflow.png" alt="System Workflow"/>
+  <img src="images/flowchart.png" alt="System Workflow"/>
 </p>
 
 The aim is to develop a natural language text-to-SQL generator model specifically for Electronic Health
