@@ -45,7 +45,7 @@ def get_connection(db_path="mimic_iv.sqlite"):
     )
 
 class MedicalDB:
-    def __init__(self, db_path="mimic_iv.sqlite"):
+    def __init__(self, db_path="./mimic_iv.sqlite"):
         self.db_path = db_path
 
     def execute_safe(self, sql, limit=100):
